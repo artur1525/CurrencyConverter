@@ -28,6 +28,6 @@ switch (currency) {
       break;    
   }
 
-resultElement.innerHTML = `${amount.toFixed(2)} PLN =  ${result.toFixed(2)} ${currency}`;
+resultElement.innerHTML = `${amount.toFixed(2)} PLN = ${result.toFixed(2)} ${currency}`;
 });
 
