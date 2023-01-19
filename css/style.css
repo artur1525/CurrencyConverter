@@ -21,6 +21,10 @@ html {
 
 .container {
     font-family: "Lato", sans-serif;
+    overflow: auto;
+    background-image: url("http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSBamUyz4iu9-A6JDBv_nObmIUL58Msf8B4vb4NhfkLi_jDwOJJJTgfGTYY70yggpH4uME4i9bRWWIY7MfUMAY");
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .article {
