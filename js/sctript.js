@@ -18,13 +18,13 @@ let result;
 
 switch (currency) {
     case "EUR":
-      result = amount * rateEUR;
+      result = amount / rateEUR;
       break;
     case "GBP":
-      result = amount * rateGBP;
+      result = amount / rateGBP;
       break;
     case "USD":
-      result = amount * rateUSD;
+      result = amount / rateUSD;
       break;    
   }
 
