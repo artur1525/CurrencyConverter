@@ -1,5 +1,3 @@
-consol.log ("Witam, ten kod jest już w repozytorium GIT.")
-
 let formElement = document.querySelector(".js-form");
 let amountElement = document.querySelector(".js-amount");
 let currencyElement = document.querySelector(".js-currency");
@@ -11,6 +9,7 @@ let rateGBP = 5.30;
 
 formElement.addEventListener("submit", (event) => {
     event.preventDefault();
+    console.log('Formularz został wysłany.');
 
 let amount = +amountElement.value;
 let currency = currencyElement.value;
