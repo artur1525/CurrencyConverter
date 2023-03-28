@@ -1,5 +1,5 @@
 # Artur Regucki - my page
-![Artur Regucki - my page img](images/homepage.png)
+![Artur Regucki - my page img](images/logoAR.png)
 ## Demo
 
 https://artur1525.github.io/homepage/
