@@ -4,7 +4,7 @@
 
 https://artur1525.github.io/homepage/
 
-```javasctrip
+```javascript
 Kliknij link powyżej ;)
 ```
 ### I used:
