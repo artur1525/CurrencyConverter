@@ -1,5 +1,4 @@
 # Artur Regucki - my page
-![Artur Regucki - my page img](images/logoAR.png)
 ## Demo
 
 
