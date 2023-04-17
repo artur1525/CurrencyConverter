@@ -2,7 +2,7 @@
 ![Artur Regucki - my page img](images/logoAR.png)
 ## Demo
 
-https://artur1525.github.io/homepage/
+https://artur1525.github.io/CurrencyConverter
 
 ```javascript
 Kliknij link powyżej ;)
