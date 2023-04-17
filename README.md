@@ -1,4 +1,4 @@
-# Artur Regucki - my page
+# Artur Regucki - currency covnerter
 ![Artur Regucki - my page img](images/logoAR.png)
 ## Demo
 
