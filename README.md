@@ -1,10 +1,6 @@
 # Artur Regucki - my page
 ## Demo
 
-
-
-```javascript
-Kliknij link powyżej ;)
 ```
 ### I used:
 
